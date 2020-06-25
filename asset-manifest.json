@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ShopBasketFrontCast/static/css/main.45387041.chunk.css",
+    "main.js": "/ShopBasketFrontCast/static/js/main.cd4be334.chunk.js",
+    "main.js.map": "/ShopBasketFrontCast/static/js/main.cd4be334.chunk.js.map",
+    "runtime-main.js": "/ShopBasketFrontCast/static/js/runtime-main.794902fb.js",
+    "runtime-main.js.map": "/ShopBasketFrontCast/static/js/runtime-main.794902fb.js.map",
+    "static/js/2.5dd43186.chunk.js": "/ShopBasketFrontCast/static/js/2.5dd43186.chunk.js",
+    "static/js/2.5dd43186.chunk.js.map": "/ShopBasketFrontCast/static/js/2.5dd43186.chunk.js.map",
+    "index.html": "/ShopBasketFrontCast/index.html",
+    "precache-manifest.1630667ac706ef71eec689d97f6354b3.js": "/ShopBasketFrontCast/precache-manifest.1630667ac706ef71eec689d97f6354b3.js",
+    "service-worker.js": "/ShopBasketFrontCast/service-worker.js",
+    "static/css/main.45387041.chunk.css.map": "/ShopBasketFrontCast/static/css/main.45387041.chunk.css.map",
+    "static/js/2.5dd43186.chunk.js.LICENSE.txt": "/ShopBasketFrontCast/static/js/2.5dd43186.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.794902fb.js",
+    "static/js/2.5dd43186.chunk.js",
+    "static/css/main.45387041.chunk.css",
+    "static/js/main.cd4be334.chunk.js"
+  ]
+}
